@@ -1,5 +1,5 @@
 // Write a functinon to count unique values
-// Input to the functinon would be a sorted array
+// Input to the function would be a sorted array
 // [1,1,1,1,2] -> 2 unique values
 
 function countUniqueValues(arr) {
